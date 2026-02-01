@@ -5,10 +5,7 @@ export default function Home() {
     <main className={styles.home}>
       <section className={styles.hero}>
         <h1 className={styles.title}>Axel Weyers</h1>
-        <p className={styles.subtitle}>
-          Gemotiveerde bachelorstudent Elektronica-ICT (IT, Cybersecurity & Cloud)
-          met een brede technische basis en sterke interesse in moderne IT-oplossingen.
-        </p>
+        
       </section>
 
       <section className={styles.grid}>
